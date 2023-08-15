@@ -1,7 +1,6 @@
 # Mongodb:
 
-.env file befindet sich in /software.dealer-service/.env
-^ dort kommt die datenbank URL rein
+.env file befindet sich in /software.dealer-service/.env dort kommt die datenbank URL rein
 
 Ich habe die daten die ich benutzt habe in /beispieldaten exportiert damit ihr sie importieren koennt in eure mongodb
 
