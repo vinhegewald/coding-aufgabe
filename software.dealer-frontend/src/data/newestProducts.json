@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Windows 11 Pro Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 15,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Windows 12  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 35,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Windows 14  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 40,
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Windows 23  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 55,
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Windows 4324  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 30,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Windows 32312  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 150,
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "Windows 243243243  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 120,
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Windows 1e12  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 1000,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "name": "Windows 232312  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 20,
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "name": "Windows 232  Lizenz",
+    "href": "#",
+    "imageSrc": "https://www.softwareshark.de/thumbnail/e7/9e/df/1649879438/Win11_Pro_SoftwareShark_1920x1920.jpg",
+
+    "price": 5,
+    "rating": 5
+  }
+]
